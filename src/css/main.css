@@ -1,0 +1,14 @@
+/* Tailwind Initialization */
+@tailwind base;
+
+h1 {
+  @apply text-3xl;
+}
+
+@tailwind components;
+
+@tailwind utilities;
+
+body {
+  background-color: #000;
+}
